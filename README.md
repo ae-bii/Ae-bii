@@ -59,5 +59,8 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=RefinityBot&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/Ae-bii/exam-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=exam-app&theme=tokyonight" />
+</a>
 
 <!-- Add interactive game in the future -->
