@@ -42,7 +42,7 @@ Languages and Tools🛠:
   </a>
 
 <a href="https://github.com/Ae-bii">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ae-bii&show_icons=true&theme=tokyonight&line_height=27" alt="Anupam's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ae-bii&show_icons=true&theme=tokyonight&line_height=27" alt="Anupam's GitHub Stats"/>
 </a>
 
 <br/>
