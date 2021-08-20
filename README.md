@@ -4,8 +4,8 @@ I'm a self-taught programmer that's fluent in mutliple languages.
 
 <!-- - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ... -->
-- 🔭 I am currently on developing an exam app written in Java.
+- 📫 How to reach me: ...
+- 🔭 I am currently on developing an exam app written in Java. -->
 - 😄 Pronouns: He/him
 <!-- - ⚡ Fun fact: ... -->
 
