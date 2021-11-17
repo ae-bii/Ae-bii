@@ -52,6 +52,10 @@ Languages and Tools🛠:
 
 ### My Projects ✨:
   
+<a href="https://github.com/Ae-bii/breakout">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=breakout&theme=tokyonight" />
+</a>
+  
 <a href="https://github.com/Ae-bii/hangman">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=hangman&theme=tokyonight" />
 </a>
