@@ -1,11 +1,11 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hey, I'm Anupam! 👋
 
-I'm a self-taught programmer that's fluent in mutliple languages.
+I'm a self-taught programmer that's fluent in a few languages.
 
 <!-- - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 🔭 I am currently on developing an exam app written in Java. -->
+- 🔭 I am currently on developing ... -->
 - 😄 Pronouns: He/him
 <!-- - ⚡ Fun fact: ... -->
 
@@ -19,8 +19,8 @@ Languages and Tools🛠:
   <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -51,6 +51,10 @@ Languages and Tools🛠:
 <br/>
 
 ### My Projects ✨:
+
+<a href="https://github.com/Ae-bii/run-for-your-life">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=run-for-your-life&theme=tokyonight" />
+</a>
   
 <a href="https://github.com/Ae-bii/breakout">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=breakout&theme=tokyonight" />
@@ -62,10 +66,6 @@ Languages and Tools🛠:
 
 <a href="https://github.com/Ae-bii/RefinityBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=RefinityBot&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Ae-bii/exam-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=exam-app&theme=tokyonight" />
 </a>
 
 <!-- Add interactive game in the future -->
