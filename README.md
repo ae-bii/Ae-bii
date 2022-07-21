@@ -64,8 +64,8 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=stock-price-prediction-using-lstm&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ae-bii/RefinityBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=RefinityBot&theme=tokyonight" />
+<a href="https://github.com/Ae-bii/implementing-flows">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=implementing-flows&theme=tokyonight" />
 </a>
 
 <!-- Add interactive game in the future -->
