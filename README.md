@@ -11,7 +11,7 @@ I'm a self-taught programmer that's fluent in a few languages.
 
 
 ---
-
+<!--
 <details>
 <summary>
 Languages and Tools🛠:
@@ -35,7 +35,7 @@ Languages and Tools🛠:
 </details>
 
 ---
-
+-->
 ### Github Activity ✔:
 
 <a href="https://github.com/Ae-bii">
