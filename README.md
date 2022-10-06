@@ -60,8 +60,8 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=implementing-flows&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ae-bii/stock-price-prediction-using-lstm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=stock-price-prediction-using-lstm&theme=tokyonight" />
+<a href="https://github.com/Ae-bii/options-pricer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=options-pricer&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Ae-bii/run-for-your-life">
