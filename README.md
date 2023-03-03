@@ -60,8 +60,8 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=implementing-flows&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ae-bii/options-pricer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=options-pricer&theme=tokyonight" />
+<a href="https://github.com/Ae-bii/cdss-hack-2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=cdss-hack-2023&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Ae-bii/run-for-your-life">
