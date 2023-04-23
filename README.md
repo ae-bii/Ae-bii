@@ -52,8 +52,12 @@ Languages and Tools🛠:
 
 ### My Projects ✨:
 
-<a href="https://github.com/Ae-bii/may-ses-hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=may-ses-hackathon&theme=tokyonight" />
+<a href="https://github.com/Ae-bii/uchicago-trading-2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=uchicago-trading-2023&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Ae-bii/imc-2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=imc-2023&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Ae-bii/implementing-flows">
@@ -64,8 +68,5 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=cdss-hack-2023&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ae-bii/run-for-your-life">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=run-for-your-life&theme=tokyonight" />
-</a>
 
 <!-- Add interactive game in the future -->
