@@ -1,13 +1,13 @@
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hey, I'm Anupam! 👋
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hey, I'm Anu! 👋
 
-I'm currently a sophomore studying Mathematics-Statistics and Computer Science at Columbia University.
+I'm currently a junior studying Mathematics-Statistics and Computer Science at Columbia University.
 
 <!-- - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 🔭 I am currently on developing ... -->
+- 🔭 I am currently on developing ...
 - 😄 Pronouns: He/him
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... -->
 
 
 ---
@@ -52,6 +52,10 @@ Languages and Tools🛠:
 
 ### My Projects ✨:
 
+<a href="https://github.com/Ae-bii/mnk-game-ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=mnk-game-ai&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/Ae-bii/uchicago-trading-2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=uchicago-trading-2023&theme=tokyonight" />
 </a>
@@ -62,10 +66,6 @@ Languages and Tools🛠:
 
 <a href="https://github.com/Ae-bii/cdss-hack-2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=cdss-hack-2023&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Ae-bii/implementing-flows">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=implementing-flows&theme=tokyonight" />
 </a>
 
 
