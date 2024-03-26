@@ -1,6 +1,6 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hey, I'm Anu! 👋
 
-I'm currently a junior studying Mathematics-Statistics and Computer Science at Columbia University.
+I'm currently a junior studying Mathematics at Columbia University.
 
 <!-- - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
