@@ -51,6 +51,7 @@ Languages and Tools🛠:
 <br/>
 -->
 
+<!--
 ### My Projects ✨:
 
 <a href="https://github.com/Ae-bii/mnk-game-ai">
@@ -68,7 +69,7 @@ Languages and Tools🛠:
 <a href="https://github.com/Ae-bii/cdss-hack-2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ae-bii&repo=cdss-hack-2023&theme=tokyonight" />
 </a>
-
+-->
 
 
 <!-- Add interactive game in the future -->
