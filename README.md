@@ -10,7 +10,7 @@ I'm currently a junior studying Mathematics at Columbia University.
 - ⚡ Fun fact: ... -->
 
 
----
+
 <!--
 <details>
 <summary>
@@ -34,14 +34,15 @@ Languages and Tools🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 </details>
 
----
+
+
 
 ### Github Activity ✔:
-
+--->
 <a href="https://github.com/Ae-bii">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ae-bii&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ae-bii&theme=tokyonight&hide=jupyter%20notebook&layout=compact" />
   </a>
-
+<!--
 <a href="https://github.com/Ae-bii">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ae-bii&show_icons=true&theme=tokyonight&line_height=27" alt="Anupam's GitHub Stats"/>
 </a>
