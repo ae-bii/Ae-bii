@@ -1,6 +1,6 @@
 ### Hi, I'm Anu!🧍‍♂️
 
-I'm currently a senior studying Mathematics at Columbia University.
+I'm a recently graduated Mathematics student from Columbia University.
 
 <!-- - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
